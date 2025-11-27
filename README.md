@@ -1,4 +1,4 @@
-# Kişisel Harcama Takip Uygulaması  
+# Personal Expense Tracking Application  
 Python • CSV • CLI Uygulaması • Raporlama Modülü
 
 Bu proje, kullanıcıların günlük gelir ve giderlerini kaydedebildiği, aylık ve genel raporlar oluşturabildiği Python tabanlı bir kişisel harcama takip uygulamasıdır.
